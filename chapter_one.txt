@@ -1,4 +1,4 @@
-Title: Introduction
+Title: Welcome everyone!
 
 The path of the righteous man is beset on all sides by the inequities of the selfish and the tyranny of evil men. 
 Blessed is he who, in the name of charity and good will, shepherds the weak through the valley of the darkness. 
@@ -20,3 +20,5 @@ I'm tryin' real hard to be the shepherd.
 
 he became the shepherd instead of the Kimchi.
 
+Added something 1
+Added something 2
